@@ -14,7 +14,7 @@ git clone --depth=1 https://github.com/Parvez1953/STAR
 
 cd STAR
 
-git pull
+chmod 777 star
 
-python star.py
+./star
 ```
